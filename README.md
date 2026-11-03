@@ -1,8 +1,10 @@
 # Biblioteca Triple Peaks
 
+![Prévia do site Biblioteca Triple Peaks](./preview.jpg)
+
 Landing page de uma biblioteca fictícia, construída em HTML e CSS a partir de um layout no Figma. Projeto do curso de Desenvolvimento Front-end da TripleTen.
 
-🔗 **Acesse:** https://naibalreira.github.io/sprint-3/
+🔗 **Acesse:** https://naibalreira.github.io/biblioteca-triple-peaks/
 
 ## Seções da página
 
